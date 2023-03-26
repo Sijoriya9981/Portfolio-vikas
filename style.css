@@ -94,7 +94,8 @@ font-family: 'Heebo', sans-serif;
 }
 .paraabout
 {
-    margin: 2% 15%;
+    margin: 2% auto;
+    text-align: justify;
     margin-bottom: 10%;
 }
 .img
@@ -181,7 +182,10 @@ font-family: 'Heebo', sans-serif;
 {
     margin: 2% 12%;
 }
-
+.card-text
+{
+    text-align: justify;
+}
 
 .moreaboutheading
 {
@@ -257,6 +261,12 @@ font-family: 'Heebo', sans-serif;
     display: block;
     flex-direction: row;
     justify-content: center;
+}
+.paraabout
+{
+    margin: 5% auto;
+    text-align: justify;
+    margin-bottom: 10%;
 }
 
 .mecard1,.mecard2,.mecard3 , .mecard4 ,.mecard5{
