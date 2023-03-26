@@ -116,7 +116,7 @@ font-family: 'Heebo', sans-serif;
     padding-top: 4%;
     font-family: 'Heebo', sans-serif;
 
-    background-color: rgb(245, 240, 240);
+    background-color: rgb(236 236 236 / 29%);
 
 }
 .projectheading
@@ -232,7 +232,7 @@ font-family: 'Heebo', sans-serif;
 /* Footer */
 .footersec
 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(236 236 236 / 29%);
     color: black;
     height: 45px;
 }
@@ -261,6 +261,9 @@ font-family: 'Heebo', sans-serif;
     display: block;
     flex-direction: row;
     justify-content: center;
+}
+.contain{
+    padding-top: 30%;
 }
 .paraabout
 {
