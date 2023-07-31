@@ -159,6 +159,7 @@ font-family: 'Heebo', sans-serif;
         font-family: 'Heebo', sans-serif;
 
     display: flex;
+    background-color: rgb(240, 240, 240);
 }
 .contactmesection
 {
@@ -216,7 +217,7 @@ font-family: 'Heebo', sans-serif;
 
 .contactabout
 {
-    background-color: rgb(236, 236, 236);
+    /* background-color: rgb(236, 236, 236); */
     padding-top: 3%;
     padding-bottom: 3%;
         font-family: 'Heebo', sans-serif;
